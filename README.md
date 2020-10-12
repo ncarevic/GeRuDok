@@ -14,7 +14,7 @@
 |Kompanije| Imaju problem klasifikacije sadrzaja dokumenta i grupisanjem istih|
 |Pravne institucije|Veliki izbor formalnih modela za kreiranje ugovora|
 |Modne agencije|Obradjivanje slika u kombinaciji sa tekstom|
-|Skole|Prezentovanje predavanja i obucavanje za rad u softverskim paketima|
+|Obrazovne ustanove|Prezentovanje predavanja i obucavanje za rad u softverskim paketima|
 ##### Zbog prostog grafickog dizajna i uopstenja funkcija, GeRuDok mogu koristiti i korisnici koji se ***prvi put*** susrecu sa obradom i prezentovanjem dokumenata.
 
 # Proizvod
@@ -29,7 +29,7 @@
 |Kompanije|Imaju mogucnost selekcije dokumenata po zeljenim kriterijumima|
 |Pravne institucije|Grupisanje dokumenata slicnog sadrzaja|
 |Modne agencije|Mogu kreirati i dizajnirati sopstvene templejte za rad|
-|Skole|Koriscenjem velikog izbora animacija mogu unaprediti kvalitet prezentovanja i predavanja lekcija|
+|Obrazovne ustanove|Koriscenjem velikog izbora animacija mogu unaprediti kvalitet prezentovanja i predavanja lekcija|
 
 # Funkcionalnosti
 ----
